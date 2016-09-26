@@ -1,0 +1,16 @@
+h1{
+  font-family: Pacifico, cursive
+}
+
+.teal-text{
+  color: teal;
+}
+
+.center-text{
+  text-align: center;
+}
+
+p{
+  font-family: 'Indie Flower',       ComicSans;
+  font-size:32px
+}
